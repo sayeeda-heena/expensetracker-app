@@ -83,7 +83,7 @@ return (
   
     <div className="min-h-screen bg-gradient-to-r from-indigo-100 via-pink-100 to-purple-100 flex flex-col items-center justify-center p-6">
       <div className="bg-white shadow-2xl rounded-2xl w-full max-w-md p-6">
-      <h1 className="text-2xl font-bold text-center mb-4">💰 Expense Tracker</h1>
+      <h1 className="text-2xl font-bold text-gray-600 text-center mb-4">💰 Expense Tracker</h1>
 
       <div className='bg-indigo-50 rounded-xl p-4 mb-6 text-center'>
         <h2 className='text-gray-700 text-lg font-semibold mb-1'>Your Balance</h2>
